@@ -43,7 +43,7 @@ import java.util.regex.*;
             System.out.println("Client input: "+intext);
             if (intext.equals("exit")||intext==null)
             {
-             System.out.println("disconection");
+             System.out.println("disconnection");
              break;
             }
             
